@@ -5,10 +5,11 @@ body
 }
 #container
 {
-    width: 1400px;
-    height: 620px;
+    background-position: center center;
+    background-size : cover;
+    background-repeat : no-repeat;
     background-image: url(images/bgImg4.jpg);
-    margin: 3px auto;
+    
 }
 #calculator
 {
